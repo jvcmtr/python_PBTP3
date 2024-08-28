@@ -1,4 +1,4 @@
-# python_PBTP1
+# python_PBTP3
 usage: 
  1. Install dependencies: `pip intall sqlite3` and `pip intall tabulate`
  2. create CSVs by runninc `python data/create_csv.py`
